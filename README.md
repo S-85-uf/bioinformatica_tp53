@@ -17,4 +17,4 @@ Este repositorio contiene un análisis básico del gen humano TP53 utilizando R 
 
 ## Autor
 
-Alexander Condor – estudiante en formación en Biologia
+Alexander Condor – estudiante en formación en Biología
